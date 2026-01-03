@@ -36,7 +36,7 @@ const Contact = () => {
       icon: <Phone className="text-cyan-600" />,
       iconBg: "bg-cyan-200",
       title: "Call",
-      linkText: "0150 7800 445",
+      linkText: "+20 150 7800 445",
       Link: "tel:+20 1507800445",
     },
   ];

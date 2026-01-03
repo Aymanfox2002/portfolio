@@ -70,10 +70,6 @@ const Projects = () => {
       techList: ["react", "swiper", "bootstrap"],
       links: [
         { name: "live" as LinkButtonKey, url: "https://lnr-one.vercel.app/" },
-        {
-          name: "github" as LinkButtonKey,
-          url: "https://github.com/Aymanfox2002/LNR",
-        },
       ],
     },
   ];

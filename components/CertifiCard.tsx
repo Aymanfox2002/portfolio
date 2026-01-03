@@ -61,7 +61,7 @@ const CertifiCard = ({
             variant="outline"
             size="lg"
           >
-            <a href={certificateLink}>View Certificate</a>
+            <a href={certificateLink} target="_blank" rel="noopener noreferrer">View Certificate</a>
           </Button>
           {credlyLink && (
             <Button
@@ -70,7 +70,7 @@ const CertifiCard = ({
               variant="outline"
               size="lg"
             >
-              <a href={credlyLink}>View on Credly</a>
+              <a href={credlyLink} target="_blank" rel="noopener noreferrer">View on Credly</a>
             </Button>
           )}
         </div>
