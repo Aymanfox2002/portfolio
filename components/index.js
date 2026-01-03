@@ -1,0 +1,9 @@
+export { default as Header } from './Header';
+export { default as MenuNav } from './MenuNav';
+export { default as SectionTitle } from './SectionTitle';
+export { default as ProjectCard } from './ProjectCard';
+export { default as CertifiCard } from './CertifiCard';
+export { default as SkillCard } from './SkillCard';
+export { default as ContactForm } from './ContactForm';
+export { default as LinksCard } from './LinksCard';
+export { default as Footer } from './Footer';
