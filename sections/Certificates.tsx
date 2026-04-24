@@ -5,8 +5,18 @@ import c3 from "@/public/images/certificates/3.webp";
 import c4 from "@/public/images/certificates/4.webp";
 import c5 from "@/public/images/certificates/5.webp";
 import c6 from "@/public/images/certificates/6.webp";
+import c7 from "@/public/images/certificates/7.webp";
 const Certificates = () => {
   const certificates = [
+    {
+      id: "DZOIH7T8LO3D",
+      image: c7,
+      title: "Introduction to Databases for Back-End Development",
+      platform: "Coursera",
+      date: "March 13, 2026",
+      certificateLink: "https://www.coursera.org/account/accomplishments/verify/DZOIH7T8LO3D",
+      credlyLink: "",
+    },
     {
       id: "U3S5A7RRQR59",
       image: c1,

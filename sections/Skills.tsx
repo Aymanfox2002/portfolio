@@ -29,6 +29,8 @@ const Skills = () => {
       skills: [
         "Node.js",
         "Express",
+        "mySQL",
+        "SQL",
         "REST APIs",
         "Middleware",
         "Server side Rendering",
